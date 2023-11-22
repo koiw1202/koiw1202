@@ -16,7 +16,7 @@
 ![Spring-JPA](https://img.shields.io/badge/-SPRING_JPA-92768A?style=for-the-badge&logo=Spring_JPA&logoColor=fffffff)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-524155?style=for-the-badge&logo=java&logoColor=ffffff)
 ![MS-SQL](https://img.shields.io/badge/-MS_SQL-222222?style=for-the-badge&logo=react)
-![Redis](https://img.shields.io/badge/-Redis-007396?style=for-the-badge&logo=java&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-880E0E?style=for-the-badge&logo=java&logoColor=ffffff)
 
 
 
