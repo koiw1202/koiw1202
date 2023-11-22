@@ -1,4 +1,4 @@
-### Hi there 👋
+### 정진하는 개발자 김성훈 입니다. 👋
 
 <!--
 **koiw1202/koiw1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
