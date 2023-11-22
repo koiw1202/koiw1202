@@ -13,7 +13,7 @@
 
 ![JAVA](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring)
-![MS-SQL](https://img.shields.io/badge/-MS-SQLScript-%23F7DF1C?style=for-the-badge&logo=react&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![MS-SQL](https://img.shields.io/badge/-MS-SQLScript-%23F7DF1C?style=for-the-badge&logo=react)
 
 
 
