@@ -12,18 +12,13 @@
 <h2> My tech stack 📚 </h2>
 
 ![JAVA](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring)
+![Spring-MVC](https://img.shields.io/badge/-Spring_MVC-6DB33F?style=for-the-badge&logo=Spring)
+![Spring-JPA](https://img.shields.io/badge/-SPRING_JPA-007396?style=for-the-badge&logo=java&logoColor=ffffff)
+![MyBatis](https://img.shields.io/badge/-MyBatis-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![MS-SQL](https://img.shields.io/badge/-MS_SQL-222222?style=for-the-badge&logo=react)
-
 ![Redis](https://img.shields.io/badge/-Redis-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-
-<!-- ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white) -->
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-<!-- ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff) -->
 
 </br>
 
