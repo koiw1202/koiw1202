@@ -11,16 +11,20 @@
 <br />
 <h2> My tech stack 📚 </h2>
 
-<h3> My tech stack 📚 </h3>
+<h3> Development Skill </h3>
 
 ![JAVA](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Spring-MVC](https://img.shields.io/badge/-Spring_MVC-446b6a?style=for-the-badge&logo=Spring)
 ![Spring-JPA](https://img.shields.io/badge/-SPRING_JPA-92768A?style=for-the-badge&logo=Spring_JPA&logoColor=fffffff)
 ![Spring-Security](https://img.shields.io/badge/-SPRING_SECURITY-9ed1d0?style=for-the-badge&logo=java&logoColor=ffffff)
 
+<h3> DB Skill </h3>
+
 ![MyBatis](https://img.shields.io/badge/-MyBatis-524155?style=for-the-badge&logo=java&logoColor=ffffff)
 ![MS-SQL](https://img.shields.io/badge/-MS_SQL-222222?style=for-the-badge&logo=react)
 ![Redis](https://img.shields.io/badge/-Redis-880E0E?style=for-the-badge&logo=java&logoColor=ffffff)
+
+<h3> Test Skill </h3>
 
 ![Junit](https://img.shields.io/badge/-Junit5-5d4c45?style=for-the-badge&logo=java&logoColor=ffffff)
 ![JMeter](https://img.shields.io/badge/-JMeter-5d4c45?style=for-the-badge&logo=java&logoColor=ffffff)
