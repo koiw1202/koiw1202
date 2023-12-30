@@ -12,7 +12,7 @@
 <h2> My tech stack 📚 </h2>
 
 ![JAVA](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
-![Spring-MVC](https://img.shields.io/badge/-Spring_MVC-6DB33F?style=for-the-badge&logo=Spring)
+![Spring-MVC](https://img.shields.io/badge/-Spring_MVC-#446b6a?style=for-the-badge&logo=Spring)
 ![Spring-JPA](https://img.shields.io/badge/-SPRING_JPA-92768A?style=for-the-badge&logo=Spring_JPA&logoColor=fffffff)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-524155?style=for-the-badge&logo=java&logoColor=ffffff)
 ![MS-SQL](https://img.shields.io/badge/-MS_SQL-222222?style=for-the-badge&logo=react)
