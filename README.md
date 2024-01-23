@@ -15,7 +15,7 @@
 
 ![JAVA](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Spring-MVC](https://img.shields.io/badge/-Spring_MVC-446b6a?style=for-the-badge&logo=Spring)
-![Spring-JPA](https://img.shields.io/badge/-Spring_MVC-92768A?style=for-the-badge&logo=Spring)
+![Spring-JPA](https://img.shields.io/badge/-Spring_JPA-92768A?style=for-the-badge&logo=Spring)
 ![Spring-SECURITY](https://img.shields.io/badge/-Spring_SECURITY-ff9e9e?style=for-the-badge&logo=Spring)
 ![Spring-BATCH](https://img.shields.io/badge/-Spring_BATCH-a7d6fd?style=for-the-badge&logo=Spring)
 
