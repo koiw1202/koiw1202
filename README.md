@@ -16,7 +16,8 @@
 ![JAVA](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Spring-MVC](https://img.shields.io/badge/-Spring_MVC-446b6a?style=for-the-badge&logo=Spring)
 ![Spring-JPA](https://img.shields.io/badge/-Spring_MVC-92768A?style=for-the-badge&logo=Spring)
-![Spring-Security](https://img.shields.io/badge/-SPRING_SECURITY-9ed1d0?style=for-the-badge&logo=java&logoColor=ffffff)
+![Spring-SECURITY](https://img.shields.io/badge/-Spring_SECURITY-92768A?style=for-the-badge&logo=Spring)
+![Spring-BATCH](https://img.shields.io/badge/-Spring_BATCH-92768A?style=for-the-badge&logo=Spring)
 
 <h3> DB Skill </h3>
 
