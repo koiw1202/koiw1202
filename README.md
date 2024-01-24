@@ -29,6 +29,8 @@
 
 ![Junit](https://img.shields.io/badge/-Junit5-5d4c45?style=for-the-badge&logo=java&logoColor=ffffff)
 ![JMeter](https://img.shields.io/badge/-JMeter-5d4c45?style=for-the-badge&logo=java&logoColor=ffffff)
+
+<h3> CI/CD Tool </h3>
 ![OpenShift](https://img.shields.io/badge/-OpenShift-7b7ea1?style=for-the-badge&logo=java&logoColor=ffffff)
 
 
