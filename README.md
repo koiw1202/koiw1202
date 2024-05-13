@@ -15,7 +15,7 @@
 
 ![JAVA](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Spring-MVC](https://img.shields.io/badge/-Spring_MVC-446b6a?style=for-the-badge&logo=Spring)
-![Spring-JPA](https://img.shields.io/badge/-Spring_JPA-92768A?style=for-the-badge&logo=Spring)
+![Spring-JPA](https://img.shields.io/badge/-Spring_DATA_JPA-92768A?style=for-the-badge&logo=Spring)
 ![Spring-SECURITY](https://img.shields.io/badge/-Spring_SECURITY-ff9e9e?style=for-the-badge&logo=Spring)
 ![Spring-BATCH](https://img.shields.io/badge/-Spring_BATCH-a7d6fd?style=for-the-badge&logo=Spring)
 
@@ -25,6 +25,7 @@
 ![MyBatis](https://img.shields.io/badge/-MyBatis-524155?style=for-the-badge&logo=java&logoColor=ffffff)
 ![MS-SQL](https://img.shields.io/badge/-MS_SQL-222222?style=for-the-badge&logo=react)
 ![Redis](https://img.shields.io/badge/-Redis-880E0E?style=for-the-badge&logo=java&logoColor=ffffff)
+![JPA](https://img.shields.io/badge/-JPA-446b6a?style=for-the-badge&logo=Sprin)
 
 <h3> Test Skill </h3>
 
